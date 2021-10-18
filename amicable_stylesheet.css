@@ -25,19 +25,10 @@ form {
     color:#7215dd;
     background-color: #fff;
     border-width: 2px;
-    border-color:#2b1447;
+    border-color:#7215dd;
 }
 
-.winNum,.yourNum {
-    display: inline;
-    color:#3a1d47;
-}
-
-
-.winTitle,.yourTitle {
-    padding:7px;
-}
 
 #output {
-    color:#8f47e2;
+    color:#190c29;
 }
