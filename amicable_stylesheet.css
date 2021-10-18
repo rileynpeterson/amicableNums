@@ -37,3 +37,7 @@ form {
 .winTitle,.yourTitle {
     padding:7px;
 }
+
+#output {
+    color:#8f47e2;
+}
